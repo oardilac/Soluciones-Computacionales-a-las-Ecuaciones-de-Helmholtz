@@ -4,7 +4,8 @@ Este proyecto se centra en desarrollar herramientas numéricas para la caracteri
 
 ## Métodos Numéricos
 
-- **Sistema de ecuaciones**: Determina mu (permeabilidad) y epsilon (permitividad) basado en valores conocidos de omega, sigma (conductividad), alpha y beta (coeficiente de fase).
+- **Sistema de ecuaciones**: Determina alpha y beta (coeficiente de fase) basado en valores conocidos de omega, sigma (conductividad), mu (permeabilidad) y epsilon (permitividad).
+
 - **Interpolación funcional**: Permite la estimación de ciertos parámetros en frecuencias intermedias usando técnicas de interpolación.
 
 ## Uso
